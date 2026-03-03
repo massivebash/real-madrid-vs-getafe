@@ -1,17 +1,25 @@
 ---
-title: Match Timeline
+title: Tactical Timeline
 ---
 
-# Match Timeline
+# Tactical Timeline of Real Madrid 0–1 Getafe
 
-## First Half
-- **38' — Goal (Getafe):** Martin Satriano scores with a powerful volley, giving Getafe a 0–1 lead. 
-- Real Madrid dominate possession but struggle to create meaningful chances.
+## Opening Phase
+Real Madrid began with heavy possession but little penetration. Getafe’s compact 5‑4‑1 shape forced Madrid wide and slowed their tempo.
 
-## Second Half
-- Madrid increase pressure but remain predictable, relying heavily on Vinícius Jr. to create chances. 
-- **67' — Yellow Card:** Dean Huijsen booked and suspended for the next match. 
-- **90' — Red Card:** Franco Mastantuono sent off, leaving Madrid with 10 men. 
+## 38' — The Decisive Moment
+Martin Satriano found space between Madrid’s centre‑backs and struck a clean volley past the keeper. The goal came from a rare Getafe transition, highlighting Madrid’s vulnerability to quick counters.
+
+## Second Half Adjustments
+Madrid pushed higher, but their attacks became predictable:
+- Repeated left‑side overloads
+- Slow ball circulation
+- Minimal movement between the lines
+
+Getafe absorbed pressure and frustrated Madrid’s attempts to break through.
+
+## Late Discipline Issues
+A late red card for dissent added to Madrid’s frustration, symbolising a loss of composure in the final minutes.
 
 ## Full-Time
-Real Madrid fall 0–1 at home, marking their second straight defeat and losing further ground in the title race. 
+Getafe held firm, securing their first Bernabéu win in two decades.
