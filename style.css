@@ -1,0 +1,74 @@
+/* Base layout */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #FFFFFF;
+  color: #222;
+  margin: 0;
+  padding: 0 20px;
+}
+
+/* Page container */
+.page-content {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Headers */
+h1, h2, h3 {
+  color: #001B44; /* Real Madrid navy */
+  font-weight: 700;
+}
+
+/* Links */
+a {
+  color: #005BBB; /* Getafe blue for contrast */
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #D4AF37; /* Gold hover */
+}
+
+/* Navigation bar */
+nav {
+  background: #F5F5F5;
+  padding: 12px 15px;
+  border-radius: 8px;
+  margin-bottom: 25px;
+  border-left: 5px solid #D4AF37; /* Gold accent */
+}
+
+nav a {
+  margin-right: 18px;
+  color: #001B44;
+}
+
+nav a:hover {
+  color: #005BBB;
+}
+
+/* Section boxes */
+.section-box {
+  background: #F8F8F8;
+  padding: 15px 20px;
+  border-radius: 8px;
+  border-left: 4px solid #001B44;
+  margin-bottom: 20px;
+}
+
+/* Horizontal rule */
+hr {
+  border: none;
+  border-top: 2px solid #D4AF37;
+  margin: 30px 0;
+}
+
+/* Footer */
+footer {
+  margin-top: 40px;
+  padding: 15px;
+  text-align: center;
+  color: #555;
+  font-size: 0.9em;
+}
