@@ -2,14 +2,16 @@
 title: Home
 ---
 
-# Real Madrid 0–1 Getafe: What Happened and Why It Matters
+# Real Madrid 0–1 Getafe: A Shock That Shook the Season
 
-Real Madrid suffered a shock 0–1 defeat at home to Getafe, a result that significantly damaged their La Liga title hopes. Martin Satriano’s first‑half strike was enough to seal the win, marking Getafe’s first victory at the Bernabéu in 20 years. 
+Real Madrid’s 0–1 defeat to Getafe at the Santiago Bernabéu was more than a surprise result — it was a performance that exposed tactical weaknesses, raised questions about squad mentality, and shifted the momentum of the La Liga title race.
 
-The loss leaves Madrid four points behind Barcelona and marks their second consecutive league defeat. Fans, players, and media outlets have described the performance as flat, predictable, and lacking urgency. 
+Getafe’s disciplined structure, Madrid’s lack of verticality, and a decisive strike from Martin Satriano combined to produce one of the most talked‑about results of the season.
 
-## Pages
-- [Match Timeline](timeline.md)
-- [Player & Fan Reaction](reaction.md)
-- [Media Narrative](media.md)
-- [Season Context](context.md)
+Explore the full breakdown:
+
+- [Tactical Timeline](timeline.md)
+- [Reactions & Emotions](reaction.md)
+- [Media & Narrative](media.md)
+- [Season Implications](context.md)
+
