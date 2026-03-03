@@ -1,15 +1,16 @@
 ---
-title: Season Context
+title: Season Implications
 ---
 
-# What This Loss Means for Real Madrid’s Season
+# What This Result Means for the Season
 
-Real Madrid now sit four points behind Barcelona after 26 matches. 
+The defeat leaves Madrid trailing Barcelona and facing renewed pressure in both domestic and European competitions.
 
-## Key Factors
-- **Injuries:** Kylian Mbappé remains sidelined with a knee ligament issue.  
-- **Form:** This was Madrid’s second consecutive defeat.  
-- **Pressure:** Media and fans are questioning Arbeloa’s leadership.  
-- **Momentum:** Getafe’s win highlights Madrid’s vulnerability against compact, disciplined teams.
+## Key Season Factors
+- **Injuries:** Missing key attackers has reduced creativity.
+- **Form:** Two consecutive league losses raise consistency concerns.
+- **Tactics:** Opponents have found success sitting deep and countering.
+- **Psychology:** Late cards and visible frustration point to mental strain.
 
-The loss has shifted the title race narrative and increased pressure on the club to respond quickly.
+The loss has shifted the narrative of the title race and increased scrutiny on the squad’s ability to respond.
+
