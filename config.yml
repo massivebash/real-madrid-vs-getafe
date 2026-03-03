@@ -1,5 +1,8 @@
-title: "Real Madrid 0–1 Getafe: Tactical Breakdown & Season Impact"
-description: "A complete tactical, emotional, and contextual analysis of Real Madrid's shock defeat to Getafe."
+title: "Real Madrid 0–1 Getafe | Tactical Breakdown"
+description: "A full tactical and contextual analysis of Real Madrid's loss to Getafe."
 theme: jekyll-theme-cayman
 markdown: kramdown
+
+include:
+  - style.css
 
