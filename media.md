@@ -1,15 +1,16 @@
 ---
-title: Media Narrative
+title: Media & Narrative
 ---
 
-# How the Media Covered the Loss
+# How the Media Framed the Defeat
 
-Spanish and international outlets described the defeat as a “shock” and a “major blow” to Madrid’s title hopes. 
+The loss dominated Spanish sports headlines, with several recurring themes:
 
-Key themes in coverage:
-- Getafe’s first win at the Bernabéu in two decades  
-- Madrid’s lack of creativity without Mbappé, who remains injured  
-- Growing pressure on manager Álvaro Arbeloa, with speculation linking Jürgen Klopp to the job 
-- Concerns about discipline after late red cards  
+- Getafe’s first Bernabéu win in 20 years
+- Madrid’s tactical stagnation
+- Pressure on the coaching staff
+- Concerns about squad mentality
+- The widening gap in the title race
 
-The loss has intensified scrutiny on the squad’s mentality and tactical approach.
+International outlets echoed the sentiment, calling the performance “flat,” “uninspired,” and “uncharacteristically passive.”
+
