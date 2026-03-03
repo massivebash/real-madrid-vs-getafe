@@ -1,20 +1,27 @@
 ---
-title: Reaction
+title: Reactions & Emotions
 ---
 
-# Player, Fan, and Club Reaction
+# How Madrid Reacted — On the Pitch and Beyond
 
-## Player Reaction
-Thibaut Courtois expressed disappointment after the match, calling the defeat “a big disappointment” and urging the team to react quickly. 
+## Player Emotions
+Several players expressed visible frustration at full-time. Post-match comments reflected disappointment but also confusion about the team’s lack of intensity.
 
-## Fan Reaction
-Supporters voiced frustration at the club meeting the following day, sending a clear message to president Florentino Pérez about the team’s direction. 
+## Fan Sentiment
+Supporters voiced concerns about:
+- Predictable attacking patterns
+- Lack of urgency
+- Poor in-game adjustments
+- Mental fragility under pressure
 
-## Performance Concerns
-Analysts highlighted:
-- Static movement in midfield  
-- Predictable attacking patterns  
-- Overreliance on Vinícius Jr.  
-- Lack of urgency until the final minutes  
+A club meeting the next day saw fans deliver a strong message to the board about the team’s direction.
 
-These issues have been recurring throughout the season. 
+## Analyst Opinions
+Pundits highlighted:
+- Slow tempo in midfield
+- Overreliance on individual brilliance
+- Lack of coordinated pressing
+- Difficulty breaking down compact blocks
+
+The defeat was widely described as a “wake‑up call.”
+
